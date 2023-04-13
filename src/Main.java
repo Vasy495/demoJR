@@ -9,10 +9,11 @@ public class Main {
         String[] words = str.split(" ", 2);
 
 
-
-
         Arrays.stream(words).forEach(System.out::println);
 
+        for (String word : words) {
+            System.out.println(word);
+        }
 
     }
 
