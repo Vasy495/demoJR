@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="demo feature" />
+    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="Добавлен второй вывод" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -78,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681396077723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Изменение лимита">
+      <created>1681398902449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681398902449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Добавлен второй вывод">
+      <created>1681400100320</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681400100320</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,7 +114,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="origin/dev" />
                       </list>
                     </value>
                   </entry>
@@ -114,6 +128,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stream commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream commit" />
+    <MESSAGE value="Изменение лимита" />
+    <MESSAGE value="Добавлен второй вывод" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавлен второй вывод" />
   </component>
 </project>
