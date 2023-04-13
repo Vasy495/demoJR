@@ -8,7 +8,7 @@ public class Main {
                 "love java and " +
                 "hello world!";
 
-        String[] words = str.split(" ", 2);
+        String[] words = str.split(" ", 1);
 
 
 
