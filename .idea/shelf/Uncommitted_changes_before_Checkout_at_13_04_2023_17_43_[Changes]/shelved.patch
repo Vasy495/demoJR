@@ -1,0 +1,81 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"0987be2d-abed-4631-8d2a-7122fe31a0a1\" name=\"Changes\" comment=\"Stream commit\" />\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\r\n      <map>\r\n        <entry key=\"$PROJECT_DIR$\" value=\"master\" />\r\n      </map>\r\n    </option>\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2Kbax33zLLbD6D7Gmfpwc6KDS7T\" />\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\">{\r\n  &quot;keyToString&quot;: {\r\n    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,\r\n    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,\r\n    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,\r\n    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,\r\n    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,\r\n    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;\r\n  }\r\n}</component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"0987be2d-abed-4631-8d2a-7122fe31a0a1\" name=\"Changes\" comment=\"\" />\r\n      <created>1674245982008</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1674245982008</updated>\r\n      <workItem from=\"1674245983212\" duration=\"1904000\" />\r\n      <workItem from=\"1674485408101\" duration=\"17000\" />\r\n      <workItem from=\"1674506589331\" duration=\"1585000\" />\r\n      <workItem from=\"1674570395835\" duration=\"36000\" />\r\n      <workItem from=\"1675267610683\" duration=\"12000\" />\r\n      <workItem from=\"1675267714453\" duration=\"3277000\" />\r\n      <workItem from=\"1675351437555\" duration=\"2109000\" />\r\n      <workItem from=\"1675710563680\" duration=\"84000\" />\r\n      <workItem from=\"1678115450587\" duration=\"27000\" />\r\n      <workItem from=\"1681154932723\" duration=\"2516000\" />\r\n      <workItem from=\"1681158739756\" duration=\"568000\" />\r\n      <workItem from=\"1681238709143\" duration=\"9000\" />\r\n      <workItem from=\"1681395915185\" duration=\"409000\" />\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"Stream commit\">\r\n      <created>1681396077723</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1681396077723</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"TypeScriptGeneratedFilesManager\">\r\n    <option name=\"version\" value=\"3\" />\r\n  </component>\r\n  <component name=\"Vcs.Log.Tabs.Properties\">\r\n    <option name=\"TAB_STATES\">\r\n      <map>\r\n        <entry key=\"MAIN\">\r\n          <value>\r\n            <State>\r\n              <option name=\"CUSTOM_BOOLEAN_PROPERTIES\">\r\n                <map>\r\n                  <entry key=\"Show.Git.Branches\" value=\"true\" />\r\n                </map>\r\n              </option>\r\n            </State>\r\n          </value>\r\n        </entry>\r\n      </map>\r\n    </option>\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"Stream commit\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"Stream commit\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 5d3ceeba7380044a634e88820cfacff570ef025f)
++++ b/.idea/workspace.xml	(date 1681396835036)
+@@ -4,7 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="Stream commit" />
++    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="demo feature" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -20,7 +20,7 @@
+   <component name="Git.Settings">
+     <option name="RECENT_BRANCH_BY_REPOSITORY">
+       <map>
+-        <entry key="$PROJECT_DIR$" value="master" />
++        <entry key="$PROJECT_DIR$" value="dev" />
+       </map>
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -66,7 +66,7 @@
+       <workItem from="1681154932723" duration="2516000" />
+       <workItem from="1681158739756" duration="568000" />
+       <workItem from="1681238709143" duration="9000" />
+-      <workItem from="1681395915185" duration="409000" />
++      <workItem from="1681395915185" duration="929000" />
+     </task>
+     <task id="LOCAL-00001" summary="Stream commit">
+       <created>1681396077723</created>
+@@ -75,7 +75,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1681396077723</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="demo feature">
++      <created>1681396661024</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1681396661024</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+@@ -90,6 +97,17 @@
+               <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                 <map>
+                   <entry key="Show.Git.Branches" value="true" />
++                </map>
++              </option>
++              <option name="FILTERS">
++                <map>
++                  <entry key="branch">
++                    <value>
++                      <list>
++                        <option value="origin/1-feature-demo" />
++                      </list>
++                    </value>
++                  </entry>
+                 </map>
+               </option>
+             </State>
+@@ -100,6 +118,7 @@
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="Stream commit" />
+-    <option name="LAST_COMMIT_MESSAGE" value="Stream commit" />
++    <MESSAGE value="demo feature" />
++    <option name="LAST_COMMIT_MESSAGE" value="demo feature" />
+   </component>
+ </project>
+\ No newline at end of file
