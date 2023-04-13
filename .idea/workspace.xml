@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="demo feature" />
+    <list default="true" id="0987be2d-abed-4631-8d2a-7122fe31a0a1" name="Changes" comment="Изменение лимита" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681396077723</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Изменение лимита">
+      <created>1681398902449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681398902449</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Stream commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Stream commit" />
+    <MESSAGE value="Изменение лимита" />
+    <option name="LAST_COMMIT_MESSAGE" value="Изменение лимита" />
   </component>
 </project>
